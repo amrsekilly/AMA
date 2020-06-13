@@ -1,6 +1,6 @@
 # AMA
 
- This repo is to ask (Amr Elsekilly)[https://youtube.com/amrsekilly] anything related to **web development** or **career advice**.
+ This repo is to ask [Amr Elsekilly](https://youtube.com/amrsekilly) anything related to **web development** or **career advice**.
 
 ## Video Requests/Votes
 
